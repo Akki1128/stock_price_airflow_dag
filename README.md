@@ -17,6 +17,7 @@ bash
 .
 ├── stock_data_dag.py        # Main Airflow DAG for stock data ETL
 └── README.md                # Project documentation
+
 🔧 Prerequisites
 Apache Airflow (2.5+ recommended)
 
