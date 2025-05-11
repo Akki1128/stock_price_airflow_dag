@@ -90,5 +90,7 @@ Snowflake connector and provider must be installed in your Airflow environment:
 
 bash
 pip install snowflake-connector-python apache-airflow-providers-snowflake
+
+
 📬 License
 This project is for academic and educational use only.
